@@ -7,8 +7,8 @@ baby_names = ["Bryam", "Sabrina", "Sienna", "Jayden"]
 end
 
 def add_element_to_end_of_array(array, element)
-
-
+array << element
+ 
 
 end
 
